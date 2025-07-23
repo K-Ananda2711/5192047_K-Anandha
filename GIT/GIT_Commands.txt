@@ -1,0 +1,19 @@
+git clone https://github.com/K-Ananda2711/5192047_K-Anandha.git
+
+cd 5192047_K-Anandha
+
+git add .
+
+$ git commit -m "First commit"
+
+$ git push
+
+$ nano README.md
+
+$ git add .
+
+$ git commit -m "SDLC Certificate Image Added in Readme File"
+
+$ git push
+
+
